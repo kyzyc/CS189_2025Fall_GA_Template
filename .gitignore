@@ -207,3 +207,15 @@ marimo/_lsp/
 __marimo__/
 
 *.DS_Store
+
+# Local assistant/editor instruction files
+AGENTS.md
+CLAUDE.md
+
+# Local virtualenv backups
+.venv-py39-backup-*/
+
+# Otter and homework-generated artifacts
+.OTTER_LOG
+hw/hw0_demo/data/
+hw/hw0_demo/model.joblib
