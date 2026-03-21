@@ -217,7 +217,7 @@ CLAUDE.md
 
 # Otter and homework-generated artifacts
 .OTTER_LOG
-hw/hw0_demo/model.joblib
+*.joblib
 
 # Ignore new data directories anywhere in the repo.
 # Already tracked data files remain tracked until explicitly removed from Git.
